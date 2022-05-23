@@ -10,7 +10,8 @@ body {
 }
 
 .container {
-    max-width: 1000px;
+  max-width: 1000px;
+  margin-top: 40px;
 }
 
 .right {
@@ -19,49 +20,58 @@ body {
 }
 
 .navbar {
-    border-radius: 0;
-    box-shadow: 0 0 0 0,0 6px 12px rgba(34,34,34,0.3);
+  border-radius: 0;
+  box-shadow: 0 0 0 0,0 6px 12px rgba(34,34,34,0.3);
+  background-color: #212026;
 }
 
 .navbar-default {
-  background-color: #615B75;
+  background-color: #212026;
   border: none;
 }
 
 .navbar-default .navbar-brand {
-    color: #fff;
-    font-family: 'Alegreya';
+  color: #fff;
+  font-family: 'Alegreya';
+  background-color: #212026;
 }
 
 .navbar-default .navbar-brand:hover {
-    color: #fff;
+  color: #fff;
+  background-color: #212026;
 }
 
 .navbar-default .navbar-nav li a {
-    color: #fff;
+
+  background-color: #212026;
+  color: #615B75;
 }
 
 .navbar-default .navbar-nav li a:hover {
-  background-color: #fff;
-  color: #615B75;
+  background-color: #212026;
+  color: #fff;
 }
 
 .navbar-default .navbar-nav .active a {
-  background-color: #fff;
-  color: #615B75;
+  background-color: #212026;
+  color: #fff;  
 }
 
 .navbar-default .navbar-toggle:hover{
-  background-color: #fff;
+  background-color: #212026;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+  background-color: #212026;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover {
+  background-color: #212026;
 }
 
 #sidebar {
-    margin-left: 15px;
-    margin-top: 50px;
+  margin-left: 15px;
+  margin-top: 50px;
 }
 
 #content {
@@ -104,8 +114,8 @@ blockquote footer {
 }
 
 #post-meta {
-    font-size: 14px;
-    color: rgba(0,0,0,0.4)
+  font-size: 14px;
+  color: #615B75;
 }
 
 #page-header {
@@ -132,7 +142,7 @@ code {
 }
 
 pre, code, .hljs {
-    background-color: #000;
+    background-color: #111;
 }
 
 @media (min-width: 768px) {
