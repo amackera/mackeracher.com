@@ -1,4 +1,4 @@
-{:title "About Anson MacKeracher"
+{:title "About"
  :layout :page
  :page-index 0
  :navbar? true}
