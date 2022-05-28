@@ -7,7 +7,7 @@
 
 Hello, friend! 👋
 
-I'm Anson, errant software engineer, and CTO/co-founder of
+I'm Anson: knight errant, software engineer, and CTO/co-founder of
 [LegalMate](https://legalmate.co). We're improving access to justice
 by offering affordable financing for legal matters.
 
@@ -21,8 +21,9 @@ These days, my chosen tools are
 [re-frame](https://github.com/day8/re-frame), and
 [polylith](https://github.com/polyfy/polylith).
 
-Here you can find a collection of my recent writings, links to my
-recent projects, and ways to contact me. Please don't be shy!
+Here you can find a collection of any of my recent writings and links
+to my recent projects. You can contact me at anson [at]
+mackeracher.com.
 
 I'm not looking for any employment opportunities or consulting
 engagements at this time, thanks!
