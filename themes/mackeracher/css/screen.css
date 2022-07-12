@@ -2,11 +2,15 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Alegreya';
 }
 
+h2 {
+  font-size: 32px;
+}
+
 body {
   color: #e6e6e8;
   background-color: #212026;
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: 'Alegreya', sans-serif;
+  font-size: 18px;
 }
 
 .container {
@@ -117,7 +121,6 @@ blockquote footer {
 
 #post-meta {
   font-size: 14px;
-  color: #615B75;
 }
 
 #page-header {
