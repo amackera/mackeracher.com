@@ -3,7 +3,7 @@
  :page-index 0
  :navbar? true}
 
-## Welcome, friend. Stay awhile...
+## About Me
 
 I'm Anson MacKeracher: swashbucker, software engineer, and CTO at
 [LegalMate](https://legalmate.co). We're improving access to justice
