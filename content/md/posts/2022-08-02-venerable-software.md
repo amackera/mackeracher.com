@@ -1,5 +1,4 @@
 {:title "Venerable Software"
- :draft? true
  :layout :post}
 
 I'm fascinated by software that's stood the test of time. More than
