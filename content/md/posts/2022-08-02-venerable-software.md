@@ -1,10 +1,10 @@
 {:title "Venerable Software"
  :layout :post}
 
-I'm fascinated by software that's stood the test of time. More than
-fascinated, actually. It's a source of inspiration, an aesthetic, a
-vibe, a noble way of life. Developers who write venerable software
-have spent their time on an incredibly high leverage persuit.
+I'm fascinated by software that's stood the test of time. It's a
+source of inspiration, an aesthetic. It's a noble vibe and way of
+life. Developers who write venerable software have spent time on an
+incredibly high leverage persuit.
 
 Battle tested software projects that don't bend to the latest fad are
 always worth studying. New ideas are often reified old ones, and keen
