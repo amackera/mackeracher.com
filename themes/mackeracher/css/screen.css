@@ -6,6 +6,10 @@ h2 {
   font-size: 32px;
 }
 
+p {
+  margin: 0 0 20px;
+}
+
 body {
   color: #e6e6e8;
   background-color: #212026;

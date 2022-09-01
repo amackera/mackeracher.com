@@ -1,5 +1,6 @@
 {:title "About"
  :layout :page
+ :home? true
  :page-index 0
  :navbar? true}
 
@@ -28,6 +29,8 @@ community.
 
 I'm **not** looking for any employment or consulting opportunities at
 this time, thanks!
+
+Where to find me:
 
 - anson [at] mackeracher.com
 - [Twitter](https://twitter.com/amackera)
